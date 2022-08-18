@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {}
+    "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {
+    "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj",
         "projectName": "ProjetoFinanceiro.Domain",
-        "projectPath": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj",
+        "projectPath": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\ProjetoFinanceiro.Domain.csproj",
         "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

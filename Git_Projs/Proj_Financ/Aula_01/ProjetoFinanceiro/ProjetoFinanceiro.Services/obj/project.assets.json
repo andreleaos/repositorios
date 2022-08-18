@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
       "projectName": "ProjetoFinanceiro.Services",
-      "projectPath": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
+      "projectPath": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\ProjetoFinanceiro.Services.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\source\\repos\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\repositorios\\Git_Projs\\Proj_Financ\\Aula_01\\ProjetoFinanceiro\\ProjetoFinanceiro.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
