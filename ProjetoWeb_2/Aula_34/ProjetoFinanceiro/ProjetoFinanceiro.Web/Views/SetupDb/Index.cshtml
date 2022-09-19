@@ -1,0 +1,31 @@
+﻿@model ProjetoFinanceiro.Web.Models.SetupDbViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Configuração do Banco de Dados</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SalvarAlteracoesDB">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="OpcaoDB" class="control-label"></label>
+                <input asp-for="OpcaoDB" class="form-control" />
+                <span asp-validation-for="OpcaoDB" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
