@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=.\SQLEXPRESS; Database=servicosdb; Trusted_Connection=yes;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
